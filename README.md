@@ -14,3 +14,4 @@ An app using blockchain and machine learning can be deployed, which will match t
 # Feasibility
 - Since the application will be using blockchain and data from the government, there won't be an inaccuracy in the data presented.
 - Machine Learning can easily be used to find the matches from the submissions.
+- Neural Networks can be used to predict matches.
